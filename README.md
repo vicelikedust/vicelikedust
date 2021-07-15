@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @vicelikedust
-- 👀 I’m interested in Mobile and Desktop development.
+- 👀 I’m interested in Mobile and Desktop development as well as IOT development.
 - 🌱 I’m currently learning C#, C++, Flutter, Javascript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
