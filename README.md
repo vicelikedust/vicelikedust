@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @vicelikedust
+- 👋 Hi, I’m Thomas
 - 👀 I’m interested in Mobile and Desktop development as well as IOT development.
 - 🌱 I’m currently learning C#, C++, Flutter, Javascript
 - 💞️ I’m looking to collaborate on ...
